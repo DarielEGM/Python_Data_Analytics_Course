@@ -14,7 +14,7 @@ Below are the questions I want to answer in my project:
 # Tools I Used
 - For my deep dive into the data analyst job market, I harnessed the power of several key tools:
 Python: The backbone of my analysis, allowing me to analysis the data and find critical insights. I also use the following Python libraries:
-    - Pandas Library:This was used to analyze the data.
+    -Pandas Library:This was used to analyze the data.
     -Matplotlib Library: I visualized the data. 
     -Seaborn Library:Jelped me create more advanced visuals.
 -Jupyter Notebooks: The tool I used to run my Python scripts wich let me easily include my notes and analysis.
@@ -135,7 +135,7 @@ plt.show()
 
 View my notebook with detailed steps here:
 [4-Salary_Analysis.ipynb](4-Salary_Analysis.ipynb)
-*
+
 
 ### Salary Analysis for Data Analyst
 #### Visualize Data
